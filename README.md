@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
+
 Linguagens e tecnologias:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
